@@ -60,6 +60,14 @@ const config = {
         sm: 'calc(var(--radius) - 4px)'
       },
       keyframes: {
+        'scroll': {
+          from: { transform: 'translateX(0)' },
+          to: { transform: 'translateX(-100%)' },
+        },
+        'reverse-scroll': {
+          from: { transform: 'translateX(-100%)' },
+          to: { transform: 'translateX(0)' },
+        },
         'accordion-down': {
           from: { height: '0' },
           to: { height: 'var(--radix-accordion-content-height)' }
@@ -81,6 +89,7 @@ const config = {
       },
       animation: {
         scroll: "scroll 30s linear infinite",
+        'reverse-scroll': "reverse-scroll 30s linear infinite",
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
         spotlight: 'spotlight 2s ease .75s 1 forwards'
