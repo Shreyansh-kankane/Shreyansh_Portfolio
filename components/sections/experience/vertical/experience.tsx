@@ -26,6 +26,7 @@ function Experiences() {
                 name={experience.name}
                 description={experience.description}
                 company={experience.company}
+                url={experience.url}
                 duration={experience.duration}
               />
             ))}
