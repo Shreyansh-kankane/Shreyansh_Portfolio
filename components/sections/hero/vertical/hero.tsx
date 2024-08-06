@@ -12,7 +12,7 @@ function Hero() {
         <div className="space-y-3">
           <div className="inline-block rounded-lg  px-3 py-1 text-sm">
             <a
-              href="https://github.com/codewithxavi"
+              href="https://github.com/Shreyansh-Kankane"
               target="_blank"
               rel="noopener"
               className="flex items-center transition md:justify-center md:hover:scale-105"
@@ -34,7 +34,7 @@ function Hero() {
 
           <div className="inline-block rounded-lg  px-3 py-1 text-sm">
             <a
-              href="https://www.linkedin.com/in/codewithxavi/"
+              href="https://www.linkedin.com/in/shreyanshgupta1203/"
               target="_blank"
               rel="noopener"
               className="flex items-center transition md:justify-center md:hover:scale-105"

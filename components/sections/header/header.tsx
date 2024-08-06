@@ -34,7 +34,7 @@ const Header = ({ loader }: HeaderProps) => {
       <nav className="bg-transparent">
         <div className="mx-auto flex max-w-screen-xl flex-wrap items-center justify-around p-4 ">
           <a
-            href="https://www.youtube.com/@codewithxavi"
+            href="https://www.linkedin.com/in/shreyanshgupta1203/"
             className="flex items-center space-x-3 rtl:space-x-reverse"
             target="_blank"
             rel="noopener"
