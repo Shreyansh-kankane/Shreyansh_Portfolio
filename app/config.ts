@@ -9,7 +9,7 @@ const metadata: Metadata = {
     label: 'Full Stack Developer'
   },
   site: {
-    title: 'Shreyansh - Porfolio Web',
+    title: 'Shreyansh - Portfolio Web',
     description:
       'Explore the portfolio of Shreyansh, a Full stack developer specializing in web and UI. Discover my work, which combines creativity and technology to deliver innovative and visually impactful digital solutions',
     ogImage: 'opengraph-image.png',
