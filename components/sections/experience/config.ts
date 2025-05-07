@@ -3,6 +3,13 @@ import { Experience } from '@/types/experience';
 const experiences: Experience[] = [
   {
     name: 'Software Development Intern',
+    duration: 'Oct 2024 - Present',
+    company: 'Vizal.ai',
+    url: 'https://vizal.ai/',
+    description: 'Developed a Saas product for the company. Implemented AI based video calling and messaging application which can integerated on websites and shopify.'
+  },
+  {
+    name: 'Software Development Intern',
     duration: '5 March 2024 - July 2024',
     company: 'Truminds Software System',
     url: 'https://truminds.com/',

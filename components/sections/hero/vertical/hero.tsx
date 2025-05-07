@@ -85,7 +85,7 @@ function Hero() {
           className="mx-auto mt-8 w-80 overflow-hidden rounded-full object-contain"
           height="550"
           width="600"
-          src={'/images/profile.png'}
+          src={'/images/shreyansh.jpeg'}
           priority={true}
         />
       </div>
